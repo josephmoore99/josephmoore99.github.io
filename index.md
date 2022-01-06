@@ -4,7 +4,7 @@
 
 At BSU, my love for the field continued to grow as I was able to go deeper into some new and more intriguing programming concepts and algorithms. One of the areas I found a lot if interest in is working with large amounts of data and artificial intelligence. As it stands, I have been able to make it onto the Dean's list every semester and continue to maintain a 4.0 GPA. Below are some of the projects I have worked on throughout my schooling.
 
-I have also had the priveledge to work as an intern at SEL (Schweitzer Engineering Laboratories) for the past couple years. At SEL, I was involved in all of the same projects that the team I was with was working on. Specifically, our primary task were to develop and maintain a PostGres database used by our customers along with all of the other REST APIs and other applications associated with it. The majority of the work done here was in C#/.NET and I have been able to develop my programming and communication skills here beyond anything I could have learned in school.
+I have also had the priveledge to work as an intern at [SEL](https://selinc.com/) (Schweitzer Engineering Laboratories) for the past couple years. At SEL, I was involved in all of the same projects that the team I was with was working on. Specifically, our primary task were to develop and maintain a PostGres database used by our customers along with all of the other REST APIs and other applications associated with it. The majority of the work done here was in C#/.NET and I have been able to develop my programming and communication skills here beyond anything I could have learned in school.
 
 ### Projects
 
