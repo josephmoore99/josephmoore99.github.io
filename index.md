@@ -8,8 +8,6 @@ At BSU, my love for the field continued to grow as I was able to go deeper into 
 
 #### High School Projects
 
-* This is a [frogger game](https://scratch.mit.edu/projects/92971701/) I made in Scratch as one of the final projects for one of my introductory courses in high school.
-
 * This is a [tank game](https://github.com/josephmoore99/Tank-Game) that I made back in high school and was one of the first JavaScript projects I completed.
 
 #### Boise State Projects
@@ -22,6 +20,9 @@ At BSU, my love for the field continued to grow as I was able to go deeper into 
 
 * CS321 - Data Structures
   * [B-Tree](https://github.com/aidanleuck/CS321) is a group project I was on to help implement a B-Tree data structure in Java.
+
+* CS354 - Programming Languages
+  * [Discord Bot](https://github.com/JaredRackley/DJGopher) is a discord bot I helped develop using GoLang and the Discord API.
 
 * CS401 - Intro to Web Development
   * [ShareAScore](https://shareascore.herokuapp.com) is a musical composition website that I made with a LAMP stack.
